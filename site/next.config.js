@@ -11,7 +11,7 @@ const nextConfig = {
     contactUrl: 'https://tst.wtf',
   },
   reactStrictMode: true,
-  basePath: '/kasm_workspaces_registry/1.1',
+  basePath: '/kasm_workspaces_registry/1.0',
   trailingSlash: true,
   images: {
     unoptimized: true,
